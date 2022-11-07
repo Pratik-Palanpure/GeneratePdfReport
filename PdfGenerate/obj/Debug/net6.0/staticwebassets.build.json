@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "q2SY2GvU+51Iu9VM/UK8+UQeFFj8dqsGUEOBV3Im2qA=",
+  "Source": "PdfGenerate",
+  "BasePath": "_content/PdfGenerate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PdfGenerate\\wwwroot",
+      "Source": "PdfGenerate",
+      "ContentRoot": "C:\\Users\\Pratik\\RiderProjects\\PdfGenerate\\PdfGenerate\\wwwroot\\",
+      "BasePath": "_content/PdfGenerate",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

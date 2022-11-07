@@ -1,1 +1,1 @@
-{"ContentRoots":["C:\\Users\\Pratik\\RiderProjects\\PdfGenerate\\PdfGenerate\\wwwroot\\"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["C:\\Users\\Pratik\\RiderProjects\\PdfGenerate\\PdfGenerate\\wwwroot\\"],"Root":{"Children":{"reports":{"Children":{"TransactionReports.pdf":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"reports/TransactionReports.pdf"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

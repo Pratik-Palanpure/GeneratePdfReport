@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q2SY2GvU+51Iu9VM/UK8+UQeFFj8dqsGUEOBV3Im2qA=",
+  "Hash": "nw+32ok8Iu0m8BSDlyA6+J0VKqSAuDZzApJPO2XRQyY=",
   "Source": "PdfGenerate",
   "BasePath": "_content/PdfGenerate",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Pratik\\RiderProjects\\PdfGenerate\\PdfGenerate\\wwwroot\\reports\\TransactionReports.pdf",
+      "SourceId": "PdfGenerate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pratik\\RiderProjects\\PdfGenerate\\PdfGenerate\\wwwroot\\",
+      "BasePath": "_content/PdfGenerate",
+      "RelativePath": "reports/TransactionReports.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reports\\TransactionReports.pdf"
+    }
+  ]
 }
